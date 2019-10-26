@@ -16,3 +16,6 @@ One day I was watching videos on electronics and Ardunios, so the next day I bou
 # How Does It Work
 
 The Ardunio Controller Board is attached to the breadboard with several jump wires. Connect a 5v wire and a Ground wire into he bread board. Connect four wires for VCC, Ground, Trig, and Echo to the sensor. Also wire five wires into the LED display for VCC, Ground, CLK, DIN, and CS. The motion sensor is then attached to a servo motor that is connected to the Ardunio Board. The servo motor is programmed to turn 90 degrees left and right. The LED Display is then programmed to have a face turn with the servo motor. When the sensor detects something within whatever the programmed range is, the LED and the motor will stop in place of the object. When the object is moved out of range, the motor will continue scanning back and forth.
+
+# Demonstration
+
