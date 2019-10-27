@@ -22,3 +22,5 @@ The Ardunio Controller Board is attached to the breadboard with several jump wir
 # What I Am Working on Now
 
 I am working on a way to programming a radar like display for that will show what the sensor is picking up with Processing.
+
+![](motion.mov)
