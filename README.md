@@ -21,6 +21,6 @@ The Ardunio Controller Board is attached to the breadboard with several jump wir
 
 # What I Am Working on Now
 
-I am working on a way to programming a radar like display for that will show what the sensor is picking up with Processing.
+I am working on a way to programming a radar like display for that will show what the sensor is picking up with Processing. Also I am trying to constuct something better than this tape monstrosity to hold the sensor on the servo motor.
 
 ![](motion.gif)
